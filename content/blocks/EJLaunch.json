@@ -1,0 +1,27 @@
+{
+ //details
+
+ "type" : "LaunchPad",
+ "name" : "EJLaunch",
+ "description" : "Launches batches of items to selected sectors. Only accepts one item type at a time.",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "effect",
+ "research" : "EJVault",
+ 
+ //specs
+
+ "size" : 2,
+ "health" : 10000,
+
+ "itemCapacity" : 100 ,
+ "launchTime" : 1 ,
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}

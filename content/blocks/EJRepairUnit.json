@@ -1,0 +1,29 @@
+{
+ //details
+
+ "type" : "RepairTower",
+ "name" : "EJRepairUnit",
+ "description" : "Continuously repairs the closest damaged unit in its vicinity.",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "logic",
+ "research" : "EJRepairBuilding",
+ 
+ //specs
+
+ "size" : 2,
+ "health" : 10000,
+
+ "range" : 10000f,
+ "repairRadius" : 10000f,
+ "repairSpeed" : 1f,
+ "healAmount" : 1f,
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}

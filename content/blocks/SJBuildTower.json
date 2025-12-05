@@ -1,0 +1,27 @@
+{
+ //details
+
+ "type" : "BuildTurret",
+ "name" : "SJBuildTower",
+ "description" : "Automatically rebuilds structures in range and assists other units in construction",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "logic",
+ "research" : "SJSolarPanel",
+ 
+ //specs
+
+ "size" : 2,
+ "health" : 10000,
+
+ "range" : 10000f,
+ "buildSpeed" : 1,
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}
