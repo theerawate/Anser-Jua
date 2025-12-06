@@ -18,6 +18,7 @@
  "mineSpeed": 10,
  "mineTier": 5,
  "itemCapacity": 100,
+ "buildSpeed": 1,
 
  "controller": u,
  "defaultCommand": mine,
