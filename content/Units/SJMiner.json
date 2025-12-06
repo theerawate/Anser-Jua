@@ -21,6 +21,7 @@ Assists other units in construction.",
  "mineTier": 5,
  "itemCapacity": 100,
  "buildSpeed": 1,
+ "range" : 10000f,
 
  "controller": u,
  "defaultCommand": mine,
