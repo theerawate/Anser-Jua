@@ -1,0 +1,28 @@
+{
+ //details
+
+ "type" : "flying",
+ "name" : "SJMiner",
+ "description" : "Automatically miner , depositing it into the core.",
+
+ //campaign
+
+ "research" : "SJFactory",
+ 
+ //specs
+
+ "health" : 10,
+
+ "mineWalls": true,
+ "mineFloor": true,
+ "mineSpeed": 10,
+ "mineTier": 5,
+ "itemCapacity": 100,
+
+ "controller": u,
+ "defaultCommand": mine,
+
+ "flying": true,
+ "speed": 10,
+
+}
