@@ -3,7 +3,9 @@
 
  "type" : "flying",
  "name" : "SJMiner",
- "description" : "Automatically miner , depositing it into the core.",
+ "description" : "Automatically miner , depositing it into the core.
+Automatically rebuilds destroyed structures.
+Assists other units in construction.",
 
  //campaign
 
