@@ -16,7 +16,7 @@
  "size" : 1,
  "health" : 10000,
 
- "liquidCapacity" : 1000000f,
+ "liquidCapacity" : 2000000f,
 
  "absorbLasers" : true,
  "chanceDeflect" : 1000,
