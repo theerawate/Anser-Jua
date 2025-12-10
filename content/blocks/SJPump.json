@@ -17,7 +17,7 @@
  "health" : 10000,
 
  "pumpAmount" : 100,
- "liquidCapacity" : 1000000,
+ "liquidCapacity" : 2000000,
 
  "absorbLasers" : true,
  "chanceDeflect" : 1000,
