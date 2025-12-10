@@ -19,7 +19,7 @@
 
  "size" : 2,
  "health" : 10000,
- "itemCapacity" : 1000000,
+ "itemCapacity" : 2000000,
  "coreMerge" : true
 
  "unitCapModifier" : 1,
