@@ -1,0 +1,42 @@
+{
+ //details
+
+ "type" : "UnitFactory",
+ "name" : "SJFactory",
+ "description" : "Produces units.",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "units",
+ "research" : "SJWaterAirPump",
+ 
+ //specs
+
+ "size" : 2,
+ "health" : 10000,
+
+ "plans": [
+ { "unit": "evoke", "requirements": [], "time": 300 },
+ { "unit": "incite", "requirements": [], "time": 500 },
+ { "unit": "emanate", "requirements": [], "time": 700 },
+
+ { "unit": "mono", "requirements": [], "time": 100 },
+ { "unit": "poly", "requirements": [], "time": 400 },
+ { "unit": "mega", "requirements": [], "time": 460 },
+ { "unit": "quad", "requirements": [], "time": 6000 },
+ { "unit": "oct", "requirements": [], "time": 24000 },
+
+ { "unit": "flare", "requirements": [], "time": 70 },
+ { "unit": "horizon", "requirements": [], "time": 340 },
+ { "unit": "zenith", "requirements": [], "time": 700 },
+ { "unit": "antumbra", "requirements": [], "time": 7200 },
+ { "unit": "eclipse", "requirements": [], "time": 22000 },
+ ],
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}
