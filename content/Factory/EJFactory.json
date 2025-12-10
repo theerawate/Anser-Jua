@@ -17,7 +17,6 @@
  "health" : 10000,
 
  "plans": [
- { "unit": "SJMiner", "requirements": [], "time": 30 },
  { "unit": "flare", "requirements": [], "time": 7 },
  { "unit": "horizon", "requirements": [], "time": 34 },
  { "unit": "zenith", "requirements": [], "time": 70 },
