@@ -1,0 +1,48 @@
+{
+ //details
+
+ "type" : "UnitFactory",
+ "name" : "EJFactory",
+ "description" : "Produces units.",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "units",
+ "research" : "EJWaterAirPump",
+ 
+ //specs
+
+ "size" : 2,
+ "health" : 10000,
+
+ "plans": [
+ { "unit": "SJMiner", "requirements": [], "time": 30 },
+ { "unit": "flare", "requirements": [], "time": 7 },
+ { "unit": "horizon", "requirements": [], "time": 34 },
+ { "unit": "zenith", "requirements": [], "time": 70 },
+ { "unit": "antumbra", "requirements": [], "time": 720 },
+ { "unit": "eclipse", "requirements": [], "time": 2200 },
+ { "unit": "avert", "requirements": [], "time": 110 },
+ { "unit": "obviate", "requirements": [], "time": 230 },
+ { "unit": "quell", "requirements": [], "time": 600 },
+ { "unit": "disrupt", "requirements": [], "time": 1200 },
+ { "unit": "mono", "requirements": [], "time": 10 },
+ { "unit": "poly", "requirements": [], "time": 40 },
+ { "unit": "mega", "requirements": [], "time": 46 },
+ { "unit": "quad", "requirements": [], "time": 600 },
+ { "unit": "oct", "requirements": [], "time": 2400 },
+ { "unit": "evoke", "requirements": [], "time": 30 },
+ { "unit": "incite", "requirements": [], "time": 50 },
+ { "unit": "emanate", "requirements": [], "time": 70 },
+ { "unit": "alpha", "requirements": [], "time": 15 },
+ { "unit": "beta", "requirements": [], "time": 17 },
+ { "unit": "gamma", "requirements": [], "time": 20 },
+ ],
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}
