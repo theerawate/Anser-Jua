@@ -16,8 +16,8 @@
  "size" : 2,
  "health" : 10000,
 
- "range" : 10000f,
- "repairRadius" : 10000f,
+ "range" : 1000f,
+ "repairRadius" : 1000f,
  "repairSpeed" : 1f,
  "healAmount" : 1f,
 
