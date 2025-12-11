@@ -17,7 +17,7 @@
  "health" : 10000,
 
  "reload" : 200f,
- "range" : 10000f,
+ "range" : 1000f,
  "healPercent" : 9f,
 
  "unitCapModifier" : 1,
