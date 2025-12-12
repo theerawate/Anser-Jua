@@ -1,0 +1,27 @@
+
+{
+ //details
+
+ "type" : "Unloader",
+ "name" : "EJUnloader",
+ "description" : "Unloads the selected item from nearby blocks.",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "logic",
+ "research" : "EJSourceItem"
+ 
+ //specs
+
+ "size" : 1,
+ "health" : 10000,
+
+ "speed" : 0.06f,
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}
