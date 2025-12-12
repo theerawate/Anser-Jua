@@ -1,0 +1,25 @@
+{
+ //details
+
+ "type" : "liquidRouter",
+ "name" : "SJRouter",
+ "description" : "Accepts liquids from all direction. Outputs to all sides. Stores a large amount of liquid.",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "liquid",
+ "research" : "SJSourceLiquid",
+ 
+ //specs
+
+ "size" : 1,
+ "health" : 10000,
+
+ "liquidCapacity" : 2000000f,
+
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}

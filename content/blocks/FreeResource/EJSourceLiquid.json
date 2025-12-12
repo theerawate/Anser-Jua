@@ -1,0 +1,26 @@
+
+{
+ //details
+
+ "type" : "LiquidSource",
+ "name" : "EJSourceLiquid",
+ "description" : "Infinitely outputs liquids.",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "logic",
+ "research" : "EJCore-Zone"
+ 
+ //specs
+
+ "size" : 1,
+ "canOverdrive" : false,
+ "health" : 10000,
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}
