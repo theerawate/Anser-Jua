@@ -1,0 +1,20 @@
+{
+ //details
+
+ "type" : "Floor",
+ "name" : "SJCore-Zone",
+ "description" : "mini Core Zone for mini Core Base",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "effect",
+ "research" : "core-shard",
+ 
+ //specs
+
+ "size" : 1,
+ "variants" : 0,
+ "allowCorePlacement" : true,
+
+}
