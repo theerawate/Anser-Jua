@@ -1,0 +1,28 @@
+{
+ //details
+
+ "type" : "UnitFactory",
+ "name" : "EJFactorySEA",
+ "description" : "Produces units.",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "units",
+ "research" : "EJFactoryLAND",
+ 
+ //specs
+
+ "size" : 2,
+ "health" : 10000,
+
+ "plans": [
+ { "unit": "elude", "requirements": [], "time": 600 },
+ ],
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}

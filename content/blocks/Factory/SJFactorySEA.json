@@ -1,0 +1,41 @@
+{
+ //details
+
+ "type" : "UnitFactory",
+ "name" : "SJFactorySEA",
+ "description" : "Produces units.",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "units",
+ "research" : "SJFactoryLAND",
+ 
+ //specs
+
+ "size" : 2,
+ "health" : 10000,
+
+ "plans": [
+ { "unit": "risso", "requirements": [], "time": 280 },
+ { "unit": "retusa", "requirements": [], "time": 270 },
+
+ { "unit": "minke", "requirements": [], "time": 600 },
+ { "unit": "oxynoe", "requirements": [], "time": 560 },
+
+ { "unit": "bryde", "requirements": [], "time": 910 },
+ { "unit": "cyerce", "requirements": [], "time": 870 },
+
+ { "unit": "sei", "requirements": [], "time": 11000 },
+ { "unit": "aegires", "requirements": [], "time": 12000 },
+
+ { "unit": "omura", "requirements": [], "time": 22000 },
+ { "unit": "navanax", "requirements": [], "time": 20000 },
+ ],
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}
