@@ -1,0 +1,28 @@
+{
+ //details
+
+ "type" : "UnitFactory",
+ "name" : "SJMinerFactory",
+ "description" : "Produces units.",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "units",
+ "research" : "duo",
+ 
+ //specs
+
+ "size" : 1,
+ "health" : 10000,
+
+ "plans": [
+ { "unit": "SJMiner", "requirements": [], "time": 1000 },
+ ],
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}

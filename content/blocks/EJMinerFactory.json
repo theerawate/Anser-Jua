@@ -1,0 +1,28 @@
+{
+ //details
+
+ "type" : "UnitFactory",
+ "name" : "EJMinerFactory",
+ "description" : "Produces units.",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "units",
+ "research" : "breach",
+ 
+ //specs
+
+ "size" : 1,
+ "health" : 10000,
+
+ "plans": [
+ { "unit": "EJMiner", "requirements": [], "time": 1000 },
+ ],
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}
