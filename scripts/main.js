@@ -9,7 +9,6 @@ Blocks.largePlasmaBore.tier=7
 Blocks.impactDrill.tier=7
 Blocks.eruptionDrill.tier=7
 
-
 Blocks.mechanicalDrill.drillTime=6
 Blocks.pneumaticDrill.drillTime=4
 Blocks.laserDrill.drillTime=2.8
