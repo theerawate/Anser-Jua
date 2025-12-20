@@ -9,7 +9,7 @@ targetAir: true
 reload: 2
 range: 600
 shootCone: 360
-liquidCapacity: 100
+liquidCapacity: 100000
 hasLiquid: true
 hasItem: false
 activeSound: spray
