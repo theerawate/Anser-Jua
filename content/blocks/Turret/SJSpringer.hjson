@@ -55,7 +55,7 @@ ammoTypes: {
  slag: {
  type: LiquidBulletType
  liquid: slag
- damage: 1
+ damage: 7
  speed: 1.5
  orbSize: 1
  lifetime: 500
