@@ -1,0 +1,83 @@
+type: LiquidTurret
+name: SJSpringer
+description: Spray Liquid as Circle And Get Short Debuffs
+health: 100
+size: 1
+inaccuracy: 10
+targetGround: true
+targetAir: true
+reload: 2
+range: 600
+shootCone: 360
+liquidCapacity: 100
+hasLiquid: true
+hasItem: false
+activeSound: spray
+
+shootEffect: {
+ type: ParticleEffect
+ particles: 1
+ cone: 20
+ sizeFrom: 0.2
+ sizeTo: 1.5
+ lifetime: 20
+ colorTo: FFFFFF00
+ colorFrom:FFFFFFCD
+ length: 4
+}
+
+shootY: 0
+ammoPerShot: 1
+ammoTypes: {
+ water: {
+ type: LiquidBulletType
+ liquid: water
+ speed: 1.5
+ orbSize: 1
+ lifetime: 500
+ status: wet
+ statusDuration: 120
+ knockback: 0.2
+ despawnHit: true
+ }
+ oil: {
+ type: LiquidBulletType
+ liquid: oil
+ damage: 1
+ speed: 1.5
+ orbSize: 1
+ lifetime: 500
+ status: tarred
+ statusDuration: 120
+ knockback: 0.2
+ despawnHit: true
+ }
+ slag: {
+ type: LiquidBulletType
+ liquid: slag
+ damage: 7
+ speed: 1.5
+ orbSize: 1
+ lifetime: 500
+ status: melting
+ statusDuration: 120
+ knockback: 0.2
+ despawnHit: true
+ }
+ cryofluid: {
+ type: LiquidBulletType
+ liquid: cryofluid
+ damage: 1
+ speed: 1.5
+ orbSize: 1
+ lifetime: 500
+ status: freezing
+ statusDuration: 120
+ knockback: 0.2
+ despawnHit: true
+ }
+}
+
+requirements: []
+category: turret
+research: SJWaterAirPump
