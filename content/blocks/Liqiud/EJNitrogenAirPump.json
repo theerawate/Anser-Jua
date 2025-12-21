@@ -2,14 +2,14 @@
  //details
 
  "type" : "GenericCrafter",
- "name" : "SJOilAirPump",
- "description" : "Free Oil",
+ "name" : "EJNitrogenAirPump",
+ "description" : "Free Nitrogen",
 
  //campaign
 
  "requirements" : [],
  "category" : "liquid",
- "research" : "SJSlagAirPump",
+ "research" : "EJHydrogenAirPump",
  
  //specs
 
@@ -20,7 +20,7 @@
  "hasLiquids" : true,
  "liquidCapacity" : 2000000,
 
- "outputLiquid" : oil / 100 ,
+ "outputLiquid" : nitrogen / 100 ,
 
  "unitCapModifier" : 1,
  "absorbLasers" : true,

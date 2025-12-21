@@ -2,14 +2,14 @@
  //details
 
  "type" : "GenericCrafter",
- "name" : "SJOilAirPump",
- "description" : "Free Oil",
+ "name" : "EJNeoplasmAirPump",
+ "description" : "Free Neoplasm",
 
  //campaign
 
  "requirements" : [],
  "category" : "liquid",
- "research" : "SJSlagAirPump",
+ "research" : "EJArkyciteAirPump",
  
  //specs
 
@@ -20,7 +20,7 @@
  "hasLiquids" : true,
  "liquidCapacity" : 2000000,
 
- "outputLiquid" : oil / 100 ,
+ "outputLiquid" : neoplasm / 100 ,
 
  "unitCapModifier" : 1,
  "absorbLasers" : true,

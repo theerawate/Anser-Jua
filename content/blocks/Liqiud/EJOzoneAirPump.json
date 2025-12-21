@@ -2,14 +2,14 @@
  //details
 
  "type" : "GenericCrafter",
- "name" : "SJOilAirPump",
- "description" : "Free Oil",
+ "name" : "EJOzoneAirPump",
+ "description" : "Free Ozone",
 
  //campaign
 
  "requirements" : [],
  "category" : "liquid",
- "research" : "SJSlagAirPump",
+ "research" : "EJCyanogenAirPump",
  
  //specs
 
@@ -20,7 +20,7 @@
  "hasLiquids" : true,
  "liquidCapacity" : 2000000,
 
- "outputLiquid" : oil / 100 ,
+ "outputLiquid" : ozone / 100 ,
 
  "unitCapModifier" : 1,
  "absorbLasers" : true,

@@ -2,14 +2,14 @@
  //details
 
  "type" : "GenericCrafter",
- "name" : "SJOilAirPump",
- "description" : "Free Oil",
+ "name" : "EJArkyciteAirPump",
+ "description" : "Free Arkycite",
 
  //campaign
 
  "requirements" : [],
  "category" : "liquid",
- "research" : "SJSlagAirPump",
+ "research" : "EJSlagAirPump",
  
  //specs
 
@@ -20,7 +20,7 @@
  "hasLiquids" : true,
  "liquidCapacity" : 2000000,
 
- "outputLiquid" : oil / 100 ,
+ "outputLiquid" : arkycite / 100 ,
 
  "unitCapModifier" : 1,
  "absorbLasers" : true,
