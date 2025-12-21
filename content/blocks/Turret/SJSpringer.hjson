@@ -80,4 +80,4 @@ ammoTypes: {
 
 requirements: []
 category: turret
-research: SJWaterAirPump
+research: SJCore-Zone
