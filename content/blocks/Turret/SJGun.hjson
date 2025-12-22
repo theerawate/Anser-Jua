@@ -219,6 +219,80 @@ ammoTypes: {
  pierce: false
  ammoMultiplier: 10
 }
+ blast-compound: {
+ type: BasicBulletType
+ damage: 0
+ splashDamage: 6
+ splashDamageRadius: 30
+ speed: 10
+ width: 10
+ height: 15
+ bulletShrink: 0.5
+ lifetime: 500
+ knockback: 1.5
+ pierce: false
+ ammoMultiplier: 10
+ status: blasted
+ statusDuration: 180
+ inaccuracy: 30
+}
+ surge-alloy: {
+ type: BasicBulletType
+ damage: 0
+ splashDamage: 9
+ splashDamageRadius: 30
+ speed: 10
+ width: 10
+ height: 15
+ bulletShrink: 0.5
+ lifetime: 500
+ knockback: 1.5
+ pierce: false
+ ammoMultiplier: 10
+ status: shocked
+ statusDuration: 180
+ homingRange: 100
+ homingDelay: 1
+ inaccuracy: 30
+}
+ phase-fabric: {
+ type: BasicBulletType
+ damage: 0
+ splashDamage: 5
+ splashDamageRadius: 15
+ speed: 10
+ width: 10
+ height: 15
+ bulletShrink: 0.5
+ lifetime: 500
+ knockback: 1.5
+ pierce: false
+ ammoMultiplier: 10
+ status: melting
+ statusDuration: 180
+ homingRange: 100
+ homingDelay: 1
+ inaccuracy: 30
+}
+ spore-pod: {
+ type: BasicBulletType
+ damage: 0
+ splashDamage: 5
+ splashDamageRadius: 30
+ speed: 10
+ width: 10
+ height: 15
+ bulletShrink: 0.5
+ lifetime: 500
+ knockback: 1.5
+ pierce: false
+ ammoMultiplier: 10
+ status: tarred
+ statusDuration: 180
+ homingRange: 100
+ homingDelay: 1
+ inaccuracy: 30
+}
 }
 shoot: {
  shots: 1
