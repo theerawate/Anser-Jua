@@ -54,3 +54,12 @@ Blocks.eruptionDrill.drillTime=6
 Blocks.eruptionDrill.tier=9
 Blocks.eruptionDrill.itemCapacity=2000000
 Blocks.eruptionDrill.liquidCapacity=2000000
+
+Blocks.mechanicalPump.pumpAmount=7/6
+Blocks.mechanicalPump.liquidCapacity=2000000
+
+Blocks.rotaryPump.pumpAmount=2
+Blocks.rotaryPump.liquidCapacity=2000000
+
+Blocks.impulsePump.pumpAmount=2.2
+Blocks.impulsePump.liquidCapacity=2000000
