@@ -63,3 +63,10 @@ Blocks.rotaryPump.liquidCapacity=2000000
 
 Blocks.impulsePump.pumpAmount=2.2
 Blocks.impulsePump.liquidCapacity=2000000
+
+Blocks.turbineCondenser.liquidCapacity=2000000
+Blocks.chemicalCombustionChamber.liquidCapacity=2000000
+Blocks.pyrolysisGenerator.liquidCapacity=2000000
+
+Blocks.reinforcedPump.pumpAmount=800/60/4
+Blocks.reinforcedPump.liquidCapacity=2000000
