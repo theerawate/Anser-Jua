@@ -39,11 +39,13 @@ Blocks.plasmaBore.drillTime=16
 Blocks.plasmaBore.tier=9
 Blocks.plasmaBore.itemCapacity=100000
 Blocks.plasmaBore.liquidCapacity=100000
+Blocks.plasmaBore.range=10
 
 Blocks.largePlasmaBore.drillTime=10
 Blocks.largePlasmaBore.tier=9
 Blocks.largePlasmaBore.itemCapacity=100000
 Blocks.largePlasmaBore.liquidCapacity=100000
+Blocks.largePlasmaBore.range=12
 
 Blocks.impactDrill.drillTime=6
 Blocks.impactDrill.tier=9
