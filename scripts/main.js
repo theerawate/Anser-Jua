@@ -73,6 +73,15 @@ Blocks.pyrolysisGenerator.liquidCapacity=100000
 Blocks.reinforcedPump.pumpAmount=800/60/4
 Blocks.reinforcedPump.liquidCapacity=100000
 
+UnitTypes.alpha.mineTier=9
+UnitTypes.beta.mineTier=9
+UnitTypes.gamma.mineTier=9
+UnitTypes.pulsar.mineTier=9
+UnitTypes.quasar.mineTier=9
+UnitTypes.mono.mineTier=9
+UnitTypes.poly.mineTier=9
+UnitTypes.mega.mineTier=9
+
 UnitTypes.evoke.mineWalls=true
 UnitTypes.evoke.mineFloor=true
 UnitTypes.evoke.mineHardnessScaling=true
