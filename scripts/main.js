@@ -111,3 +111,10 @@ UnitTypes.emanate.engineSize=1
 
 Blocks.electrolyzer.liquidCapacity=100000
 Blocks.chemicalCombustionChamber.liquidCapacity=100000
+
+UnitTypes.alpha.fogRadius=15
+UnitTypes.beta.fogRadius=15
+UnitTypes.gamma.fogRadius=15
+UnitTypes.evoke.fogRadius=15
+UnitTypes.incite.fogRadius=15
+UnitTypes.emanate.fogRadius=15
