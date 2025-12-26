@@ -17,20 +17,20 @@
  "health" : 10000,
 
  "plans": [
- { "unit": "stell", "requirements": [], "time": 850 },
- { "unit": "merui", "requirements": [], "time": 680 },
-
- { "unit": "locus", "requirements": [], "time": 2100 },
- { "unit": "cleroi", "requirements": [], "time": 1100 },
-
- { "unit": "precept", "requirements": [], "time": 5000 },
- { "unit": "anthicus", "requirements": [], "time": 2900 },
+ { "unit": "conquer", "requirements": [], "time": 22000 },
+ { "unit": "collaris", "requirements": [], "time": 18000 },
 
  { "unit": "vanquish", "requirements": [], "time": 11000 },
  { "unit": "tecta", "requirements": [], "time": 6500 },
 
- { "unit": "conquer", "requirements": [], "time": 22000 },
- { "unit": "collaris", "requirements": [], "time": 18000 },
+ { "unit": "precept", "requirements": [], "time": 5000 },
+ { "unit": "anthicus", "requirements": [], "time": 2900 },
+
+ { "unit": "locus", "requirements": [], "time": 2100 },
+ { "unit": "cleroi", "requirements": [], "time": 1100 },
+
+ { "unit": "stell", "requirements": [], "time": 850 },
+ { "unit": "merui", "requirements": [], "time": 680 },
  ],
 
  "unitCapModifier" : 1,
