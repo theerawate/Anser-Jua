@@ -1,0 +1,29 @@
+{
+ //details
+
+ "type" : "PointDefenseTurret",
+ "name" : "SJSegment",
+ "description" : "Damages and destroys incoming projectiles. Laser projectiles are not targeted.",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "logic",
+ "research" : "SJShield",
+ 
+ //specs
+
+ "size" : 1,
+ "health" : 10,
+
+ "range" : 300f,
+ "shootLength" : 12f,
+ "bulletDamage" : 50f,
+ "reload" : 10f,
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}
