@@ -17,14 +17,14 @@
  "health" : 10000,
 
  "plans": [
- { "unit": "evoke", "requirements": [], "time": 300 },
- { "unit": "incite", "requirements": [], "time": 500 },
- { "unit": "emanate", "requirements": [], "time": 700 },
-
- { "unit": "avert", "requirements": [], "time": 1100 },
- { "unit": "obviate", "requirements": [], "time": 2300 },
- { "unit": "quell", "requirements": [], "time": 6000 },
  { "unit": "disrupt", "requirements": [], "time": 12000 },
+ { "unit": "quell", "requirements": [], "time": 6000 },
+ { "unit": "obviate", "requirements": [], "time": 2300 },
+ { "unit": "avert", "requirements": [], "time": 1100 },
+
+ { "unit": "emanate", "requirements": [], "time": 700 },
+ { "unit": "incite", "requirements": [], "time": 500 },
+ { "unit": "evoke", "requirements": [], "time": 300 },
  ],
 
  "unitCapModifier" : 1,
