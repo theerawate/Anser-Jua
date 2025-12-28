@@ -18,7 +18,7 @@
  //specs
 
  "size" : 2,
- "health" : 10000,
+ "health" : 100,
  "itemCapacity" : 2000000,
  "coreMerge" : true
 
