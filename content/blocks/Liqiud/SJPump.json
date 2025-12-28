@@ -14,7 +14,7 @@
  //specs
 
  "size" : 1,
- "health" : 10000,
+ "health" : 100,
 
  "pumpAmount" : 100,
  "liquidCapacity" : 2000000,
