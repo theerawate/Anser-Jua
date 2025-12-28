@@ -141,3 +141,5 @@ Blocks.lustre.unitCapModifier=3
 Blocks.scathe.unitCapModifier=3
 Blocks.smite.unitCapModifier=8
 Blocks.malign.unitCapModifier=9
+
+Blocks.junction.capacity=1000
