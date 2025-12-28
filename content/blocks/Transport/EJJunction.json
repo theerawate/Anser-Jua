@@ -2,21 +2,23 @@
 {
  //details
 
- "type" : "Router",
- "name" : "EJRouter1",
- "description" : "Distributes input items to 3 output directions equally.",
+ "type" : "Junction",
+ "name" : "EJJunction",
+ "description" : "Acts as a bridge for two crossing conveyor belts.",
 
  //campaign
 
  "requirements" : [],
  "category" : "distribution",
- "research" : "EJJunction"
+ "research" : "EJConveyor"
  
  //specs
 
  "size" : 1,
  "health" : 10000,
  "speed" : 1000,
+
+ "capacity" : 1000,
 
  "absorbLasers" : true,
  "chanceDeflect" : 1000,
