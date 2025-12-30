@@ -82,6 +82,15 @@ UnitTypes.mono.mineTier=9
 UnitTypes.poly.mineTier=9
 UnitTypes.mega.mineTier=9
 
+UnitTypes.alpha.itemCapacity=3000
+UnitTypes.beta.itemCapacity=5000
+UnitTypes.gamma.itemCapacity=7000
+UnitTypes.pulsar.itemCapacity=4000
+UnitTypes.quasar.itemCapacity=5000
+UnitTypes.mono.itemCapacity=2000
+UnitTypes.poly.itemCapacity=3000
+UnitTypes.mega.itemCapacity=6000
+
 UnitTypes.evoke.mineWalls=true
 UnitTypes.evoke.mineFloor=true
 UnitTypes.evoke.mineHardnessScaling=true
