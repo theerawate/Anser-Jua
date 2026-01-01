@@ -17,7 +17,7 @@
  "health" : 100,
 
  "radius" : 250f,
- "shieldHealth" : 1000f,
+ "shieldHealth" : 250f,
  "cooldownNormal" : 1.5f,
  "cooldownLiquid" : 1.2f,
  "cooldownBrokenBase" : 1f,
