@@ -1,0 +1,26 @@
+
+{
+ //details
+
+ "type" : "Router",
+ "name" : "SJRouter3",
+ "description" : "Distributes input items to 11 output directions equally.",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "distribution",
+ "research" : "distributor"
+ 
+ //specs
+
+ "size" : 3,
+ "health" : 100,
+ "speed" : 1000,
+ "itemCapacity" : 1000,
+ 
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}
