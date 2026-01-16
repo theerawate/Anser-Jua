@@ -306,3 +306,6 @@ Blocks.pyrolysisGenerator.liquidCapacity=1500
 Blocks.fluxReactor.liquidCapacity=300
 Blocks.neoplasiaReactor.itemCapacity=100
 Blocks.neoplasiaReactor.liquidCapacity=800
+
+Blocks.router.itemCapacity=1000
+Blocks.distributor.itemCapacity=1000
