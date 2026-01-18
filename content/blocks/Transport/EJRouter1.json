@@ -17,6 +17,7 @@
  "size" : 1,
  "health" : 100,
  "speed" : 1000,
+ "itemCapacity" : 1000,
 
  "absorbLasers" : true,
  "chanceDeflect" : 1000,
