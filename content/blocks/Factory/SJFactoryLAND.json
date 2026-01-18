@@ -1,46 +1,43 @@
 {
- //details
+//details
 
- "type" : "UnitFactory",
- "name" : "SJFactoryLAND",
- "description" : "Produces units.",
+"type" : "UnitFactory",
+"name" : "SJFactoryLAND",
+"description" : "Produces units.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "units",
- "research" : "SJFactoryAIR",
- 
- //specs
+"requirements" : [],
+"category" : "units",
+"research" : "SJFactoryAIR",
 
- "size" : 2,
- "health" : 100,
+//specs
 
- "plans": [
- { "unit": "dagger", "requirements": [], "time": 150 },
- { "unit": "nova", "requirements": [], "time": 120 },
- { "unit": "crawler", "requirements": [], "time": 150 },
+"size" : 2,
+"health" : 10,
 
- { "unit": "mace", "requirements": [], "time": 550 },
- { "unit": "pulsar", "requirements": [], "time": 320 },
- { "unit": "atrax", "requirements": [], "time": 600 },
+"plans": [
+{ "unit": "dagger", "requirements": [], "time": 150 },
+{ "unit": "nova", "requirements": [], "time": 120 },
+{ "unit": "crawler", "requirements": [], "time": 150 },
 
- { "unit": "fortress", "requirements": [], "time": 900 },
- { "unit": "quasar", "requirements": [], "time": 640 },
- { "unit": "spiroct", "requirements": [], "time": 1000 },
+{ "unit": "mace", "requirements": [], "time": 550 },
+{ "unit": "pulsar", "requirements": [], "time": 320 },
+{ "unit": "atrax", "requirements": [], "time": 600 },
 
- { "unit": "scepter", "requirements": [], "time": 9000 },
- { "unit": "vela", "requirements": [], "time": 8200 },
- { "unit": "arkyid", "requirements": [], "time": 8000 },
+{ "unit": "fortress", "requirements": [], "time": 900 },
+{ "unit": "quasar", "requirements": [], "time": 640 },
+{ "unit": "spiroct", "requirements": [], "time": 1000 },
 
- { "unit": "reign", "requirements": [], "time": 24000 },
- { "unit": "corvus", "requirements": [], "time": 18000 },
- { "unit": "toxopid", "requirements": [], "time": 22000 },
- ],
+{ "unit": "scepter", "requirements": [], "time": 9000 },
+{ "unit": "vela", "requirements": [], "time": 8200 },
+{ "unit": "arkyid", "requirements": [], "time": 8000 },
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+{ "unit": "reign", "requirements": [], "time": 24000 },
+{ "unit": "corvus", "requirements": [], "time": 18000 },
+{ "unit": "toxopid", "requirements": [], "time": 22000 },
+],
+
+"unitCapModifier" : 1,
 
 }

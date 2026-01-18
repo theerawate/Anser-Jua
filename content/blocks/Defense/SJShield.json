@@ -1,32 +1,29 @@
 {
- //details
+//details
 
- "type" : "ForceProjector",
- "name" : "SJShield",
- "description" : "Creates a hexagonal force field around itself, protecting buildings and units inside from damage. Overheats if too much damage is sustained.",
+"type" : "ForceProjector",
+"name" : "SJShield",
+"description" : "Creates a hexagonal force field around itself, protecting buildings and units inside from damage. Overheats if too much damage is sustained.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "logic",
- "research" : "SJHeater",
- 
- //specs
+"requirements" : [],
+"category" : "logic",
+"research" : "SJHeater",
 
- "size" : 1,
- "health" : 100,
+//specs
 
- "radius" : 250f,
- "shieldHealth" : 250f,
- "cooldownNormal" : 1.5f,
- "cooldownLiquid" : 1.2f,
- "cooldownBrokenBase" : 1f,
- "consumePower" : 0,
- "liquidCapacity" : 1000f,
+"size" : 1,
+"health" : 10,
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"radius" : 250f,
+"shieldHealth" : 250f,
+"cooldownNormal" : 1.5f,
+"cooldownLiquid" : 1.2f,
+"cooldownBrokenBase" : 1f,
+"consumePower" : 0,
+"liquidCapacity" : 1000f,
+
+"unitCapModifier" : 1,
 
 }

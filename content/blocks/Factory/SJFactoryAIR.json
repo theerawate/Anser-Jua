@@ -1,42 +1,39 @@
 {
- //details
+//details
 
- "type" : "UnitFactory",
- "name" : "SJFactoryAIR",
- "description" : "Produces units.",
+"type" : "UnitFactory",
+"name" : "SJFactoryAIR",
+"description" : "Produces units.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "units",
- "research" : "SJSpringer",
- 
- //specs
+"requirements" : [],
+"category" : "units",
+"research" : "SJSpringer",
 
- "size" : 2,
- "health" : 100,
+//specs
 
- "plans": [
- { "unit": "alpha", "requirements": [], "time": 150 },
- { "unit": "beta", "requirements": [], "time": 170 },
- { "unit": "gamma", "requirements": [], "time": 200 },
+"size" : 2,
+"health" : 10,
 
- { "unit": "mono", "requirements": [], "time": 100 },
- { "unit": "poly", "requirements": [], "time": 400 },
- { "unit": "mega", "requirements": [], "time": 460 },
- { "unit": "quad", "requirements": [], "time": 6000 },
- { "unit": "oct", "requirements": [], "time": 24000 },
+"plans": [
+{ "unit": "alpha", "requirements": [], "time": 150 },
+{ "unit": "beta", "requirements": [], "time": 170 },
+{ "unit": "gamma", "requirements": [], "time": 200 },
 
- { "unit": "flare", "requirements": [], "time": 70 },
- { "unit": "horizon", "requirements": [], "time": 340 },
- { "unit": "zenith", "requirements": [], "time": 700 },
- { "unit": "antumbra", "requirements": [], "time": 7200 },
- { "unit": "eclipse", "requirements": [], "time": 22000 },
- ],
+{ "unit": "mono", "requirements": [], "time": 100 },
+{ "unit": "poly", "requirements": [], "time": 400 },
+{ "unit": "mega", "requirements": [], "time": 460 },
+{ "unit": "quad", "requirements": [], "time": 6000 },
+{ "unit": "oct", "requirements": [], "time": 24000 },
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+{ "unit": "flare", "requirements": [], "time": 70 },
+{ "unit": "horizon", "requirements": [], "time": 340 },
+{ "unit": "zenith", "requirements": [], "time": 700 },
+{ "unit": "antumbra", "requirements": [], "time": 7200 },
+{ "unit": "eclipse", "requirements": [], "time": 22000 },
+],
+
+"unitCapModifier" : 1,
 
 }

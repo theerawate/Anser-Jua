@@ -1,41 +1,38 @@
 {
- //details
+//details
 
- "type" : "UnitFactory",
- "name" : "SJFactorySEA",
- "description" : "Produces units.",
+"type" : "UnitFactory",
+"name" : "SJFactorySEA",
+"description" : "Produces units.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "units",
- "research" : "SJFactoryLAND",
- 
- //specs
+"requirements" : [],
+"category" : "units",
+"research" : "SJFactoryLAND",
 
- "size" : 2,
- "health" : 100,
+//specs
 
- "plans": [
- { "unit": "risso", "requirements": [], "time": 280 },
- { "unit": "retusa", "requirements": [], "time": 270 },
+"size" : 2,
+"health" : 10,
 
- { "unit": "minke", "requirements": [], "time": 600 },
- { "unit": "oxynoe", "requirements": [], "time": 560 },
+"plans": [
+{ "unit": "risso", "requirements": [], "time": 280 },
+{ "unit": "retusa", "requirements": [], "time": 270 },
 
- { "unit": "bryde", "requirements": [], "time": 910 },
- { "unit": "cyerce", "requirements": [], "time": 870 },
+{ "unit": "minke", "requirements": [], "time": 600 },
+{ "unit": "oxynoe", "requirements": [], "time": 560 },
 
- { "unit": "sei", "requirements": [], "time": 11000 },
- { "unit": "aegires", "requirements": [], "time": 12000 },
+{ "unit": "bryde", "requirements": [], "time": 910 },
+{ "unit": "cyerce", "requirements": [], "time": 870 },
 
- { "unit": "omura", "requirements": [], "time": 22000 },
- { "unit": "navanax", "requirements": [], "time": 20000 },
- ],
+{ "unit": "sei", "requirements": [], "time": 11000 },
+{ "unit": "aegires", "requirements": [], "time": 12000 },
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+{ "unit": "omura", "requirements": [], "time": 22000 },
+{ "unit": "navanax", "requirements": [], "time": 20000 },
+],
+
+"unitCapModifier" : 1,
 
 }

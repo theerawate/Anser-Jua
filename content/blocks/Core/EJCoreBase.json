@@ -1,28 +1,25 @@
 {
- //details
+//details
 
- "type" : "CoreBlock",
- "name" : "EJCoreBase",
- "description" : "mini Core of the base. Stores Large resources",
+"type" : "CoreBlock",
+"name" : "EJCoreBase",
+"description" : "mini Core of the base. Stores Large resources",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "effect",
- "research" : "EJCore-Zone",
- 
- //specs
+"requirements" : [],
+"category" : "effect",
+"research" : "EJCore-Zone",
 
- "size" : 1,
- "health" : 100,
- "itemCapacity" : 2000000,
+//specs
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"size" : 1,
+"health" : 10,
+"itemCapacity" : 2000000,
 
- "requiresCoreZone" : true,
- "unitType" : "emanate",
+"unitCapModifier" : 1,
+
+"requiresCoreZone" : true,
+"unitType" : "emanate",
 
 }

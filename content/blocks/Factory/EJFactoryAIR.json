@@ -1,35 +1,32 @@
 {
- //details
+//details
 
- "type" : "UnitFactory",
- "name" : "EJFactoryAIR",
- "description" : "Produces units.",
+"type" : "UnitFactory",
+"name" : "EJFactoryAIR",
+"description" : "Produces units.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "units",
- "research" : "EJSpringer",
- 
- //specs
+"requirements" : [],
+"category" : "units",
+"research" : "EJSpringer",
 
- "size" : 2,
- "health" : 100,
+//specs
 
- "plans": [
- { "unit": "disrupt", "requirements": [], "time": 12000 },
- { "unit": "quell", "requirements": [], "time": 6000 },
- { "unit": "obviate", "requirements": [], "time": 2300 },
- { "unit": "avert", "requirements": [], "time": 1100 },
+"size" : 2,
+"health" : 10,
 
- { "unit": "emanate", "requirements": [], "time": 700 },
- { "unit": "incite", "requirements": [], "time": 500 },
- { "unit": "evoke", "requirements": [], "time": 300 },
- ],
+"plans": [
+{ "unit": "disrupt", "requirements": [], "time": 12000 },
+{ "unit": "quell", "requirements": [], "time": 6000 },
+{ "unit": "obviate", "requirements": [], "time": 2300 },
+{ "unit": "avert", "requirements": [], "time": 1100 },
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+{ "unit": "emanate", "requirements": [], "time": 700 },
+{ "unit": "incite", "requirements": [], "time": 500 },
+{ "unit": "evoke", "requirements": [], "time": 300 },
+],
+
+"unitCapModifier" : 1,
 
 }

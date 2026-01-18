@@ -1,28 +1,25 @@
 {
- //details
+//details
 
- "type" : "UnitFactory",
- "name" : "EJFactorySEA",
- "description" : "Produces units.",
+"type" : "UnitFactory",
+"name" : "EJFactorySEA",
+"description" : "Produces units.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "units",
- "research" : "EJFactoryLAND",
- 
- //specs
+"requirements" : [],
+"category" : "units",
+"research" : "EJFactoryLAND",
 
- "size" : 2,
- "health" : 100,
+//specs
 
- "plans": [
- { "unit": "elude", "requirements": [], "time": 600 },
- ],
+"size" : 2,
+"health" : 10,
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"plans": [
+{ "unit": "elude", "requirements": [], "time": 600 },
+],
+
+"unitCapModifier" : 1,
 
 }

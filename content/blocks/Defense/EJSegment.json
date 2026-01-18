@@ -1,29 +1,26 @@
 {
- //details
+//details
 
- "type" : "PointDefenseTurret",
- "name" : "EJSegment",
- "description" : "Damages and destroys incoming projectiles. Laser projectiles are not targeted.",
+"type" : "PointDefenseTurret",
+"name" : "EJSegment",
+"description" : "Damages and destroys incoming projectiles. Laser projectiles are not targeted.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "logic",
- "research" : "EJShield",
- 
- //specs
+"requirements" : [],
+"category" : "logic",
+"research" : "EJShield",
 
- "size" : 1,
- "health" : 100,
+//specs
 
- "range" : 300f,
- "shootLength" : 12f,
- "bulletDamage" : 50f,
- "reload" : 10f,
+"size" : 1,
+"health" : 10,
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"range" : 300f,
+"shootLength" : 12f,
+"bulletDamage" : 50f,
+"reload" : 10f,
+
+"unitCapModifier" : 1,
 
 }
