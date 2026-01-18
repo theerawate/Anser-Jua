@@ -1,27 +1,24 @@
 {
- //details
+//details
 
- "type" : "LaunchPad",
- "name" : "SJLaunch",
- "description" : "Launches batches of items to selected sectors. Only accepts one item type at a time.",
+"type" : "LaunchPad",
+"name" : "SJLaunch",
+"description" : "Launches batches of items to selected sectors. Only accepts one item type at a time.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "effect",
- "research" : "SJMiniVault",
- 
- //specs
+"requirements" : [],
+"category" : "effect",
+"research" : "SJMiniVault",
 
- "size" : 2,
- "health" : 100,
+//specs
 
- "itemCapacity" : 100 ,
- "launchTime" : 1 ,
+"size" : 2,
+"health" : 10,
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"itemCapacity" : 100 ,
+"launchTime" : 1 ,
+
+"unitCapModifier" : 1,
 
 }

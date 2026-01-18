@@ -1,30 +1,27 @@
 {
- //details
+//details
 
- "type" : "StorageBlock",
- "name" : "EJVault",
- "description" : "
- Stores a large amount of items of each type.
- Expands storage when placed next to a core.
- Contents can be retrieved with an unloader.
- ",
+"type" : "StorageBlock",
+"name" : "EJVault",
+"description" : "
+Stores a large amount of items of each type.
+Expands storage when placed next to a core.
+Contents can be retrieved with an unloader.
+",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "effect",
- "research" : "EJConveyor",
- 
- //specs
+"requirements" : [],
+"category" : "effect",
+"research" : "EJConveyor",
 
- "size" : 2,
- "health" : 100,
- "itemCapacity" : 2000000,
- "coreMerge" : true
+//specs
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"size" : 2,
+"health" : 10,
+"itemCapacity" : 2000000,
+"coreMerge" : true
+
+"unitCapModifier" : 1,
 
 }

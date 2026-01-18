@@ -1,26 +1,22 @@
 
 {
- //details
+//details
 
- "type" : "Router",
- "name" : "EJRouter2",
- "description" : "Distributes input items to 7 output directions equally.",
+"type" : "Router",
+"name" : "EJRouter2",
+"description" : "Distributes input items to 7 output directions equally.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "distribution",
- "research" : "EJRouter1"
- 
- //specs
+"requirements" : [],
+"category" : "distribution",
+"research" : "EJRouter1"
 
- "size" : 2,
- "health" : 100,
- "speed" : 1000,
- "itemCapacity" : 1000,
+//specs
 
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"size" : 2,
+"health" : 10,
+"speed" : 1000,
+"itemCapacity" : 1000,
 
 }

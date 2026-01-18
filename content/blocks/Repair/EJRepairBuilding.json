@@ -1,28 +1,25 @@
 {
- //details
+//details
 
- "type" : "MendProjector",
- "name" : "EJRepairBuilding",
- "description" : "Repairs blocks in its vicinity.",
+"type" : "MendProjector",
+"name" : "EJRepairBuilding",
+"description" : "Repairs blocks in its vicinity.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "logic",
- "research" : "EJBuildTower",
- 
- //specs
+"requirements" : [],
+"category" : "logic",
+"research" : "EJBuildTower",
 
- "size" : 1,
- "health" : 100,
+//specs
 
- "reload" : 200f,
- "range" : 1000f,
- "healPercent" : 9f,
+"size" : 1,
+"health" : 10,
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"reload" : 200f,
+"range" : 1000f,
+"healPercent" : 9f,
+
+"unitCapModifier" : 1,
 
 }

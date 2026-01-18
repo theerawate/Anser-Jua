@@ -1,27 +1,24 @@
 
 {
- //details
+//details
 
- "type" : "Unloader",
- "name" : "EJUnloader",
- "description" : "Unloads the selected item from nearby blocks.",
+"type" : "Unloader",
+"name" : "EJUnloader",
+"description" : "Unloads the selected item from nearby blocks.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "effect",
- "research" : "EJCore-Zone"
- 
- //specs
+"requirements" : [],
+"category" : "effect",
+"research" : "EJCore-Zone"
 
- "size" : 1,
- "health" : 100,
+//specs
 
- "speed" : 0.06f,
+"size" : 1,
+"health" : 10,
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"speed" : 0.06f,
+
+"unitCapModifier" : 1,
 
 }

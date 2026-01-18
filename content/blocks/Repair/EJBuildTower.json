@@ -1,27 +1,24 @@
 {
- //details
+//details
 
- "type" : "BuildTurret",
- "name" : "EJBuildTower",
- "description" : "Automatically rebuilds structures in range and assists other units in construction",
+"type" : "BuildTurret",
+"name" : "EJBuildTower",
+"description" : "Automatically rebuilds structures in range and assists other units in construction",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "logic",
- "research" : "EJSolarPanel",
- 
- //specs
+"requirements" : [],
+"category" : "logic",
+"research" : "EJSolarPanel",
 
- "size" : 1,
- "health" : 100,
+//specs
 
- "range" : 1000f,
- "buildSpeed" : 1,
+"size" : 1,
+"health" : 10,
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"range" : 1000f,
+"buildSpeed" : 1,
+
+"unitCapModifier" : 1,
 
 }

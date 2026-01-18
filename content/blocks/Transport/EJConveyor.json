@@ -1,27 +1,23 @@
 
 {
- //details
+//details
 
- "type" : "Conveyor",
- "name" : "EJConveyor",
- "description" : "Transports items forward",
+"type" : "Conveyor",
+"name" : "EJConveyor",
+"description" : "Transports items forward",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "distribution",
- "research" : "EJUnloader"
- 
- //specs
+"requirements" : [],
+"category" : "distribution",
+"research" : "EJUnloader"
 
- "size" : 1,
- "health" : 100,
- "speed" : 1000,
- "itemCapacity" : 1000000,
- "pushUnits" : false,
+//specs
 
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"size" : 1,
+"health" : 10,
+"speed" : 1000,
+"itemCapacity" : 1000000,
+"pushUnits" : false,
 
 }

@@ -1,29 +1,26 @@
 {
- //details
+//details
 
- "type" : "LandingPad",
- "name" : "EJLanding",
- "description" : "Receives items from launch pads in other sectors.",
+"type" : "LandingPad",
+"name" : "EJLanding",
+"description" : "Receives items from launch pads in other sectors.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "effect",
- "research" : "EJLaunch",
- 
- //specs
+"requirements" : [],
+"category" : "effect",
+"research" : "EJLaunch",
 
- "size" : 2,
- "health" : 100,
+//specs
 
- "itemCapacity" : 1000000 ,
- "arrivalDuration" : 1 ,
- "cooldownTime" : 1 ,
- "consumeLiquidAmount" : 0 ,
+"size" : 2,
+"health" : 10,
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"itemCapacity" : 1000000 ,
+"arrivalDuration" : 1 ,
+"cooldownTime" : 1 ,
+"consumeLiquidAmount" : 0 ,
+
+"unitCapModifier" : 1,
 
 }

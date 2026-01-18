@@ -1,28 +1,25 @@
 {
- //details
+//details
 
- "type" : "MassDriver",
- "name" : "EJMiniDriver",
- "description" : "Long-range item transport structure. Collects batches of items and shoots them to other mass drivers",
+"type" : "MassDriver",
+"name" : "EJMiniDriver",
+"description" : "Long-range item transport structure. Collects batches of items and shoots them to other mass drivers",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "distribution",
- "research" : "EJMassDriver",
- 
- //specs
+"requirements" : [],
+"category" : "distribution",
+"research" : "EJMassDriver",
 
- "size" : 1,
- "health" : 100,
+//specs
 
- "itemCapacity" : 1000000,
- "reload" : 100f,
- "range" : 1000f,
+"size" : 1,
+"health" : 10,
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"itemCapacity" : 1000000,
+"reload" : 100f,
+"range" : 1000f,
+
+"unitCapModifier" : 1,
 
 }

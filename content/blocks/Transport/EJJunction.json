@@ -1,27 +1,23 @@
 
 {
- //details
+//details
 
- "type" : "Junction",
- "name" : "EJJunction",
- "description" : "Acts as a bridge for two crossing conveyor belts.",
+"type" : "Junction",
+"name" : "EJJunction",
+"description" : "Acts as a bridge for two crossing conveyor belts.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "distribution",
- "research" : "EJConveyor"
- 
- //specs
+"requirements" : [],
+"category" : "distribution",
+"research" : "EJConveyor"
 
- "size" : 1,
- "health" : 100,
- "speed" : 1000,
+//specs
 
- "capacity" : 100,
+"size" : 1,
+"health" : 10,
+"speed" : 1000,
 
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"capacity" : 100,
 
 }

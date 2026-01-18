@@ -1,29 +1,26 @@
 {
- //details
+//details
 
- "type" : "RepairTower",
- "name" : "SJRepairUnit",
- "description" : "Continuously repairs the closest damaged unit in its vicinity.",
+"type" : "RepairTower",
+"name" : "SJRepairUnit",
+"description" : "Continuously repairs the closest damaged unit in its vicinity.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "logic",
- "research" : "SJRepairBuilding",
- 
- //specs
+"requirements" : [],
+"category" : "logic",
+"research" : "SJRepairBuilding",
 
- "size" : 1,
- "health" : 100,
+//specs
 
- "range" : 1000f,
- "repairRadius" : 1000f,
- "repairSpeed" : 1f,
- "healAmount" : 1f,
+"size" : 1,
+"health" : 10,
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"range" : 1000f,
+"repairRadius" : 1000f,
+"repairSpeed" : 1f,
+"healAmount" : 1f,
+
+"unitCapModifier" : 1,
 
 }
