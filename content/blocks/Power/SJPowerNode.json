@@ -1,38 +1,35 @@
 {
- //details
+//details
 
- "type" : "PowerNode",
- "name" : "SJPowerNode",
- "description" : "
- Transmits power to connected nodes.
- The node will receive power from or supply power to any adjacent blocks.
- Stores a large amount of power.",
+"type" : "PowerNode",
+"name" : "SJPowerNode",
+"description" : "
+Transmits power to connected nodes.
+The node will receive power from or supply power to any adjacent blocks.
+Stores a large amount of power.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "power",
- "research" : "SJCoreBase",
- 
- //specs
+"requirements" : [],
+"category" : "power",
+"research" : "SJCoreBase",
 
- "size" : 2,
- "health" : 100,
- 
- "laserRange" : 100,
- "maxNodes" : 100,
- "laserScale" : 0.02,
+//specs
 
- "consumes" : {"powerBuffered" : 1000000},
- 
- "outputsPower" : true,
- "hasPower" : true,
- "consumesPower" : true,
- "conductivePower" : true,
+"size" : 2,
+"health" : 10,
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"laserRange" : 100,
+"maxNodes" : 100,
+"laserScale" : 0.02,
+
+"consumes" : {"powerBuffered" : 1000000},
+
+"outputsPower" : true,
+"hasPower" : true,
+"consumesPower" : true,
+"conductivePower" : true,
+
+"unitCapModifier" : 1,
 
 }

@@ -1,27 +1,24 @@
 
 {
- //details
+//details
 
- "type" : "HeatProducer",
- "name" : "EJHeater",
- "description" : "Applies heat to structures",
+"type" : "HeatProducer",
+"name" : "EJHeater",
+"description" : "Applies heat to structures",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "logic",
- "research" : "EJRepairUnit"
- 
- //specs
+"requirements" : [],
+"category" : "logic",
+"research" : "EJRepairUnit"
 
- "size" : 1,
- "health" : 100,
+//specs
 
- "heatOutput" : 100f,
+"size" : 1,
+"health" : 10,
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"heatOutput" : 100f,
+
+"unitCapModifier" : 1,
 
 }

@@ -1,27 +1,24 @@
 {
- //details
+//details
 
- "type" : "ConsumeGenerator",
- "name" : "EJSolarPanel",
- "description" : "Provides power",
+"type" : "ConsumeGenerator",
+"name" : "EJSolarPanel",
+"description" : "Provides power",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "power",
- "research" : "EJPowerNode",
- 
- //specs
+"requirements" : [],
+"category" : "power",
+"research" : "EJPowerNode",
 
- "size" : 2,
- "health" : 100,
- "powerProduction" : 100,
+//specs
 
- "range" : 1000,
+"size" : 2,
+"health" : 10,
+"powerProduction" : 100,
 
- "unitCapModifier" : 1,
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"range" : 1000,
+
+"unitCapModifier" : 1,
 
 }

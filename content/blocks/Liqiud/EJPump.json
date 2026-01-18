@@ -1,26 +1,22 @@
 {
- //details
+//details
 
- "type" : "Pump",
- "name" : "EJPump",
- "description" : "Pumps and outputs liquids. Does not require power.",
+"type" : "Pump",
+"name" : "EJPump",
+"description" : "Pumps and outputs liquids. Does not require power.",
 
- //campaign
+//campaign
 
- "requirements" : [],
- "category" : "liquid",
- "research" : "EJRouter",
- 
- //specs
+"requirements" : [],
+"category" : "liquid",
+"research" : "EJRouter",
 
- "size" : 1,
- "health" : 100,
+//specs
 
- "pumpAmount" : 100,
- "liquidCapacity" : 2000000,
+"size" : 1,
+"health" : 10,
 
- "absorbLasers" : true,
- "chanceDeflect" : 1000,
- "armor" : 1500,
+"pumpAmount" : 100,
+"liquidCapacity" : 2000000,
 
 }
