@@ -14,7 +14,7 @@
 //specs
 
 "size" : 2,
-"health" : 100,
+"health" : 1000,
 "powerProduction" : 100,
 
 "range" : 1000,
