@@ -14,7 +14,7 @@
 //specs
 
 "size" : 2,
-"health" : 100,
+"health" : 1000,
 
 "itemCapacity" : 1000000,
 "reload" : 100f,
