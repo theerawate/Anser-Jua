@@ -17,7 +17,7 @@ Stores a large amount of power.",
 //specs
 
 "size" : 2,
-"health" : 10,
+"health" : 100,
 
 "laserRange" : 100,
 "maxNodes" : 100,

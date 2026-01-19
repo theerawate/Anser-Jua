@@ -15,7 +15,7 @@
 //specs
 
 "size" : 3,
-"health" : 10,
+"health" : 100,
 "speed" : 1000,
 "itemCapacity" : 1000,
 

@@ -18,7 +18,7 @@ Contents can be retrieved with an unloader.
 //specs
 
 "size" : 2,
-"health" : 10,
+"health" : 100,
 "itemCapacity" : 2000000,
 "coreMerge" : true
 
