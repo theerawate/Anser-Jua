@@ -14,7 +14,7 @@
 //specs
 
 "size" : 1,
-"health" : 10,
+"health" : 100,
 
 "range" : 300f,
 "shootLength" : 12f,

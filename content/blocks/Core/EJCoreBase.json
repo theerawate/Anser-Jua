@@ -14,7 +14,7 @@
 //specs
 
 "size" : 1,
-"health" : 10,
+"health" : 100,
 "itemCapacity" : 2000000,
 
 "unitCapModifier" : 1,
