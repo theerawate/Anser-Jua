@@ -21,6 +21,4 @@
 "bulletDamage" : 50f,
 "reload" : 10f,
 
-"unitCapModifier" : 1,
-
 }
