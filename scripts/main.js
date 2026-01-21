@@ -309,3 +309,10 @@ Blocks.neoplasiaReactor.liquidCapacity=800
 
 Blocks.router.itemCapacity=1000
 Blocks.distributor.itemCapacity=1000
+
+Blocks.itemBridge.itemCapacity=100000
+Blocks.phaseConveyor.itemCapacity=100000
+Blocks.ductBridge.itemCapacity=40000
+Blocks.bridgeConduit.liquidCapacity=1000000
+Blocks.phaseConduit.liquidCapacity=1000000
+Blocks.reinforcedBridgeConduit.liquidCapacity=1200000
