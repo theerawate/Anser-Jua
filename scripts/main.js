@@ -2,90 +2,82 @@ Blocks.mechanicalDrill.drillTime=60
 Blocks.mechanicalDrill.tier=9
 Blocks.mechanicalDrill.itemCapacity=100000
 Blocks.mechanicalDrill.liquidCapacity=100000
-Blocks.mechanicalDrill.unitCapModifier=1
 
 Blocks.pneumaticDrill.drillTime=40
 Blocks.pneumaticDrill.tier=9
 Blocks.pneumaticDrill.itemCapacity=100000
 Blocks.pneumaticDrill.liquidCapacity=100000
-Blocks.pneumaticDrill.unitCapModifier=2
 
 Blocks.laserDrill.drillTime=28
 Blocks.laserDrill.tier=9
 Blocks.laserDrill.itemCapacity=100000
 Blocks.laserDrill.liquidCapacity=100000
-Blocks.laserDrill.unitCapModifier=3
+Blocks.laserDrill.unitCapModifier=1
 
 Blocks.blastDrill.drillTime=28
 Blocks.blastDrill.tier=9
 Blocks.blastDrill.itemCapacity=100000
 Blocks.blastDrill.liquidCapacity=100000
-Blocks.blastDrill.unitCapModifier=4
+Blocks.blastDrill.unitCapModifier=2
 
 Blocks.waterExtractor.pumpAmount=1.1
 Blocks.waterExtractor.liquidCapacity=100000
-Blocks.waterExtractor.unitCapModifier=2
 
 Blocks.cultivator.craftTime=10
 Blocks.cultivator.itemCapacity=100000
 Blocks.cultivator.liquidCapacity=100000
-Blocks.cultivator.unitCapModifier=2
 
 Blocks.oilExtractor.pumpAmount=2.5
 Blocks.oilExtractor.itemCapacity=100000
 Blocks.oilExtractor.liquidCapacity=100000
-Blocks.oilExtractor.unitCapModifier=3
+Blocks.oilExtractor.unitCapModifier=1
 
 Blocks.ventCondenser.craftTime=12
 Blocks.ventCondenser.liquidCapacity=100000
-Blocks.ventCondenser.unitCapModifier=3
+Blocks.ventCondenser.unitCapModifier=1
 
 Blocks.cliffCrusher.drillTime=11
 Blocks.cliffCrusher.itemCapacity=100000
-Blocks.cliffCrusher.unitCapModifier=2
 
 Blocks.largeCliffCrusher.drillTime=4.8
 Blocks.largeCliffCrusher.itemCapacity=100000
 Blocks.largeCliffCrusher.liquidCapacity=100000
-Blocks.largeCliffCrusher.unitCapModifier=3
+Blocks.largeCliffCrusher.unitCapModifier=1
 
 Blocks.plasmaBore.drillTime=16
 Blocks.plasmaBore.tier=9
 Blocks.plasmaBore.itemCapacity=100000
 Blocks.plasmaBore.liquidCapacity=100000
 Blocks.plasmaBore.range=10
-Blocks.plasmaBore.unitCapModifier=2
 
 Blocks.largePlasmaBore.drillTime=10
 Blocks.largePlasmaBore.tier=9
 Blocks.largePlasmaBore.itemCapacity=100000
 Blocks.largePlasmaBore.liquidCapacity=100000
 Blocks.largePlasmaBore.range=12
-Blocks.largePlasmaBore.unitCapModifier=3
+Blocks.largePlasmaBore.unitCapModifier=1
 
 Blocks.impactDrill.drillTime=6
 Blocks.impactDrill.tier=9
 Blocks.impactDrill.itemCapacity=100000
 Blocks.impactDrill.liquidCapacity=100000
-Blocks.impactDrill.unitCapModifier=4
+Blocks.impactDrill.unitCapModifier=2
 
 Blocks.eruptionDrill.drillTime=6
 Blocks.eruptionDrill.tier=9
 Blocks.eruptionDrill.itemCapacity=100000
 Blocks.eruptionDrill.liquidCapacity=100000
-Blocks.eruptionDrill.unitCapModifier=5
+Blocks.eruptionDrill.unitCapModifier=3
 
 Blocks.mechanicalPump.pumpAmount=7/6
 Blocks.mechanicalPump.liquidCapacity=100000
-Blocks.mechanicalPump.unitCapModifier=1
 
 Blocks.rotaryPump.pumpAmount=2
 Blocks.rotaryPump.liquidCapacity=100000
-Blocks.rotaryPump.unitCapModifier=2
 
 Blocks.impulsePump.pumpAmount=2.2
 Blocks.impulsePump.liquidCapacity=100000
-Blocks.impulsePump.unitCapModifier=3
+Blocks.impulsePump.unitCapModifier=1
 
 Blocks.turbineCondenser.liquidCapacity=100000
 Blocks.chemicalCombustionChamber.liquidCapacity=100000
