@@ -27,6 +27,4 @@
 { "unit": "evoke", "requirements": [], "time": 300 },
 ],
 
-"unitCapModifier" : 1,
-
 }
