@@ -22,6 +22,4 @@ Contents can be retrieved with an unloader.
 "itemCapacity" : 2000000,
 "coreMerge" : true
 
-"unitCapModifier" : 1,
-
 }
