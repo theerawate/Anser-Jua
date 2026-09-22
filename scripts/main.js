@@ -80,8 +80,13 @@ Blocks.impulsePump.liquidCapacity=100000
 Blocks.impulsePump.unitCapModifier=1
 
 Blocks.turbineCondenser.liquidCapacity=100000
+Blocks.turbineCondenser.unitCapModifier=1
+
 Blocks.chemicalCombustionChamber.liquidCapacity=100000
+
 Blocks.pyrolysisGenerator.liquidCapacity=100000
+Blocks.pyrolysisGenerator.unitCapModifier=1
+
 Blocks.electrolyzer.liquidCapacity=100000
 
 Blocks.reinforcedPump.pumpAmount=800/60/4
