@@ -17,7 +17,7 @@
 "health" : 1000,
 "itemCapacity" : 2000000,
 
-"unitCapModifier" : 5,
+"unitCapModifier" : 1,
 
 "requiresCoreZone" : true,
 "unitType" : "emanate",
