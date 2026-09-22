@@ -17,6 +17,8 @@
 "health" : 1000,
 "itemCapacity" : 2000000,
 
+"unitCapModifier" : 1,
+
 "requiresCoreZone" : true,
 "unitType" : "gamma",
 
