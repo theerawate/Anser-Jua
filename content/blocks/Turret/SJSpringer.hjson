@@ -3,7 +3,7 @@ name: SJSpringer
 description: Spray Liquid as Circle And Get Short Debuffs
 health: 100
 size: 1
-inaccuracy: 30
+inaccuracy: 5
 targetGround: true
 targetAir: true
 reload: 2
