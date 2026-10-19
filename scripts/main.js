@@ -169,12 +169,12 @@ UnitTypes.evoke.fogRadius=15
 UnitTypes.incite.fogRadius=15
 UnitTypes.emanate.fogRadius=15
 
-UnitTypes.alpha.speed=15
-UnitTypes.beta.speed=16.5
-UnitTypes.gamma.speed=17.75
-UnitTypes.evoke.speed=28
-UnitTypes.incite.speed=35
-UnitTypes.emanate.speed=37.5
+UnitTypes.alpha.speed=9
+UnitTypes.beta.speed=9.9
+UnitTypes.gamma.speed=10.65
+UnitTypes.evoke.speed=16.8
+UnitTypes.incite.speed=21
+UnitTypes.emanate.speed=22.5
 
 UnitTypes.pulsar.mineSpeed=50
 UnitTypes.quasar.mineSpeed=60
