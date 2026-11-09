@@ -1,3 +1,10 @@
+Blocks.coreShard.itemCapacity=400000
+Blocks.coreFoundation.itemCapacity=900000
+Blocks.coreNucleus.itemCapacity=1300000
+Blocks.coreBastion.itemCapacity=200000
+Blocks.coreCitadel.itemCapacity=300000
+Blocks.coreAcropolis.itemCapacity=400000
+
 Blocks.mechanicalDrill.drillTime=60
 Blocks.mechanicalDrill.tier=9
 Blocks.mechanicalDrill.itemCapacity=100000
