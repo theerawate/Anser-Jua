@@ -1,0 +1,25 @@
+{
+//details
+
+"type" : "SolidPump",
+"name" : "EJExtractor",
+"description" : "Extracts groundwater. Used in locations with no surface water available. Does not require power.",
+
+//campaign
+
+"requirements" : [],
+"category" : "liquid",
+"research" : "EJRouter",
+
+//specs
+
+"size" : 1,
+"health" : 1000,
+
+"result" : water,
+"consumePower" : 0,
+
+"pumpAmount" : 10,
+"liquidCapacity" : 2000000,
+
+}
